@@ -1,9 +1,11 @@
-# Testi percobaan
+# Testi percobaann
 
-pip install rich
+pkg update
+
+pkg upgrade
 
 git clone https://github.com/Lisensi/Testi
 
 cd Testi
 
-python son7.py
+python son6.py
