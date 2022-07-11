@@ -2,7 +2,7 @@
 
 pip install rich
 
-https://github.com/Lisensi/Testi
+git clone https://github.com/Lisensi/Testi
 
 cd Testi
 
